@@ -1,0 +1,15 @@
+release/delete.o
+release/deletecomplete.o
+release/display.o
+release/huffman.o
+release/main.o
+release/mainwindow.o
+release/mypushbutton.o
+release/updatedata.o
+release/moc_delete.o
+release/moc_deletecomplete.o
+release/moc_display.o
+release/moc_huffman.o
+release/moc_mainwindow.o
+release/moc_mypushbutton.o
+release/moc_updatedata.o

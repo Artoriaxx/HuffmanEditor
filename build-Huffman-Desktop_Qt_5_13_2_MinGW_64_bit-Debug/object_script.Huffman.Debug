@@ -1,0 +1,15 @@
+debug/delete.o
+debug/deletecomplete.o
+debug/display.o
+debug/huffman.o
+debug/main.o
+debug/mainwindow.o
+debug/mypushbutton.o
+debug/updatedata.o
+debug/moc_delete.o
+debug/moc_deletecomplete.o
+debug/moc_display.o
+debug/moc_huffman.o
+debug/moc_mainwindow.o
+debug/moc_mypushbutton.o
+debug/moc_updatedata.o
